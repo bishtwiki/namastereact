@@ -37,3 +37,4 @@ coverage/
 # Ignore any files or directories specific to your project
 # .npmrc
 # .yarnrc
+.package-lock.json
