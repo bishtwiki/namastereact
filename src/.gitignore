@@ -1,0 +1,39 @@
+# Node modules directory
+node_modules/
+
+# Build output directory
+dist/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# npm and Yarn lock files (optional)
+# package-lock.json
+# yarn.lock
+
+# Coverage directory (if you use a code coverage tool)
+coverage/
+
+# Build artifacts
+*.tgz
+*.zip
+*.tar.gz
+
+# Ignore any files or directories specific to your project
+# .npmrc
+# .yarnrc
